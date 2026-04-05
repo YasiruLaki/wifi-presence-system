@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="520" viewBox="0 0 980 520" role="img" aria-labelledby="title desc">
+  <title id="title">WiFi Presence Output - Empty</title>
+  <desc id="desc">Sample terminal screenshot showing EMPTY state output.</desc>
+  <rect width="980" height="520" fill="#0b0f14"/>
+  <rect x="20" y="20" width="940" height="480" rx="12" fill="#111827" stroke="#334155"/>
+  <circle cx="52" cy="46" r="7" fill="#ef4444"/>
+  <circle cx="74" cy="46" r="7" fill="#f59e0b"/>
+  <circle cx="96" cy="46" r="7" fill="#22c55e"/>
+  <text x="130" y="52" font-family="Menlo, Monaco, Consolas, monospace" font-size="16" fill="#94a3b8">wifi-presence-system/output</text>
+
+  <text x="44" y="95" font-family="Menlo, Monaco, Consolas, monospace" font-size="24" fill="#e2e8f0">WiFi Invisible Presence System</text>
+  <text x="44" y="126" font-family="Menlo, Monaco, Consolas, monospace" font-size="20" fill="#64748b">------------------------------</text>
+
+  <text x="44" y="170" font-family="Menlo, Monaco, Consolas, monospace" font-size="22" fill="#e5e7eb">RSSI: -71 dBm</text>
+  <text x="44" y="205" font-family="Menlo, Monaco, Consolas, monospace" font-size="22" fill="#e5e7eb">Variance: 0.42</text>
+  <text x="44" y="240" font-family="Menlo, Monaco, Consolas, monospace" font-size="22" fill="#34d399">State: EMPTY</text>
+
+  <text x="44" y="300" font-family="Menlo, Monaco, Consolas, monospace" font-size="22" fill="#e5e7eb">Activity: #</text>
+
+  <text x="44" y="470" font-family="Menlo, Monaco, Consolas, monospace" font-size="16" fill="#94a3b8">Captured example output (illustrative)</text>
+</svg>
